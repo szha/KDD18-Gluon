@@ -1,0 +1,27 @@
+name: kdd18_gluon_nlp_cu92
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - perl
+  - sphinx=1.7.2
+  - spacy
+  - nltk
+  - pytest
+  - flaky
+  - pytest-cov
+  - jupyter
+  - pip:
+    - mxnet-cu92>=1.3.0b20180817
+    - gluonnlp==0.4.0
+    - spacy
+    - nltk==3.2.5
+    - sacremoses
+    - numba
+    - jieba
+    - notedown
+    - pytest
+    - jupyter_contrib_nbextensions
+    - pyopenssl>=17.3.0
+    - RISE
