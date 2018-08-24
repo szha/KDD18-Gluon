@@ -19,6 +19,10 @@ While most of the notebooks we prepared can run from the comfort of your laptop,
 
 In preparation for the hands-on tutorial, **please make sure that you have an AWS account with at least one p2.8xlarge AND one p3.2xlarge instance in EU (Ireland) available for launch**. You may register an AWS account and **follow the instructions on [this page](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-resource-limits.html) to verify and request for p2.8xlarge AND one p3.2xlarge instance limits** in **EU (Ireland)** region.
 
+Interested to learn more about [GluonNLP](https://github.com/dmlc/gluon-nlp)? **[Sign-up](https://join.slack.com/t/apache-mxnet/shared_invite/enQtNDIzNjY0NjQ2NjYyLTI1ZGNiOGEwOTZkMzMyOTg2ZjNkOWQyNjA5NGRhOTI5NDY4MDY0NmE1MDc2NjEzYWQ1MDZhNzU2NjE5YTMyYTA)** and join our [slack channel](https://apache-mxnet.slack.com/messages/CCCDM10V9).
+
+We'd love to hear from you! Have feedback to help us improve? Interested in career at AmazonAI? Contact us at [amazonai-kdd18@amazon.com](mailto:amazonai-kdd18@amazon.com).
+
 
 Agenda
 ------
@@ -39,8 +43,6 @@ Agenda
 | 16:00-16:15 | Sentiment Analysis                                            |           | [link][09] |
 | 16:15-17:00 | Transformer Models and Machine Translation                    | [link][7] | [link][10] |
 | 17:00-17:30 | Questions                                                     |           |            |
-
-Have questions? Contact us at [amazonai-kdd18@amazon.com](mailto:amazonai-kdd18@amazon.com)
 
 [1]: https://github.com/szha/KDD18-Gluon/blob/master/slides/KDD%20Tutorial%201.pdf
 [2]: https://github.com/szha/KDD18-Gluon/blob/master/slides/KDD%20Tutorial%202.pdf
