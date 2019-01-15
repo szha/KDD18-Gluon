@@ -1,5 +1,5 @@
-KDD18 London: Deep Learning and Natural Language Processing with Apache MXNet Gluon
-===================================================================================
+KDD18 London: Deep Learning and Natural Language Processing with Apache MXNet (Incubating) Gluon
+================================================================================================
 
 <h3>Time: Tuesday, August 21, 2018<br/>Location: ICC Capital Suite Room 14+15+16</h3>
 
